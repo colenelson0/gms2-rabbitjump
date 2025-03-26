@@ -4,7 +4,7 @@ This game is a simple platforming game where you play as a rabbit who collects c
 
 The reason I made this game using this software was to see if I could quickly put together a game in a game engine that I am somewhat familiar with.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Game Demo and Walkthrough](https://www.youtube.com/watch?v=e1iQW2OODwM)
 
 # Development Environment
 
